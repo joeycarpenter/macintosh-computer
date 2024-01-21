@@ -8,6 +8,9 @@
 * _9" monochrome display_
 * _400 KB storage floppy disk_
 
+
+[https://everymac.com/systems/apple/mac_classic/specs/mac_128k.html]
+
 ****
 
 
@@ -19,6 +22,8 @@
 * _Intel core i5 3.1 GHz_
 * _15.6" 1920 x 1080 TN panel display_
 * _SSD[^1]_
+
+[https://www.acer.com/ae-en/laptops/aspire/aspire-3-intel/pdp/NX.HZREM.013]
 
 ****
 
